@@ -1,0 +1,17 @@
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\bin\Debug\net6.0-windows\projeto calcula frete.exe
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\bin\Debug\net6.0-windows\projeto calcula frete.deps.json
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\bin\Debug\net6.0-windows\projeto calcula frete.runtimeconfig.json
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\bin\Debug\net6.0-windows\projeto calcula frete.dll
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\bin\Debug\net6.0-windows\projeto calcula frete.pdb
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.csproj.AssemblyReference.cache
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto_calcula_frete.Form1.resources
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.csproj.GenerateResource.cache
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.AssemblyInfoInputs.cache
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.AssemblyInfo.cs
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.csproj.CoreCompileInputs.cache
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.dll
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\refint\projeto calcula frete.dll
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.pdb
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\projeto calcula frete.genruntimeconfig.cache
+C:\Users\caique.rrarruda\source\repos\projeto calcula frete\projeto calcula frete\obj\Debug\net6.0-windows\ref\projeto calcula frete.dll
